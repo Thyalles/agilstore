@@ -1,4 +1,4 @@
-# agilstore
+# AgilStore
 Gerenciamento de Produtos - AgilStore
 
 	Este projeto consiste em uma aplicação de gerenciamento de produtos para a loja AgilStore.
